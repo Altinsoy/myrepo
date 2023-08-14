@@ -1,3 +1,2 @@
 Hello from Ahmet
 Hello
-This is a new line
